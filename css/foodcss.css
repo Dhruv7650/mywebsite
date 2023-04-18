@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu{
+    float: right;
+}
+.RESERVATION{
+    margin: 25px -780px;
+    float: right;
+    background-color: #c10000;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-size: 11px;
+}
+.basket{
+    float: right;
+    margin: 22px -650px;
+}
+.offer{
+    position: absolute;
+    top: 60%;
+    left: 25%;
+    transform: translate(-50%,-40%);
+}
+.lorem{
+    font-size: 20px;
+    color: floralwhite;
+    margin: 15px 0px;
+}
+.special{
+    font-size: 50px;
+    color: navajowhite;
+}
+.order{
+    background-color: #9d0000;
+    margin: 10px 0px;
+    padding: 5px 20px;
+    border: none;
+    color: white;
+    font-size: 12px;
+    border-radius: 5px;
+}
+.pizza{
+    position: absolute;
+    color: white;
+    margin: 159px 380px;
+    font-size: 25px;
+}
+.ice{
+    margin: 100px 58px;
+    position: relative;
+}
+.spagetti{
+        margin: -25px 56px;
+}
+.try{
+    position: absolute;
+    right: 7%;
+    margin: 122px 0px;
+    font-size: 15px;
+}
